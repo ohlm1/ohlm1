@@ -1,4 +1,4 @@
-# Olá, eu sou o ohlm1 👋
+# Olá, eu sou o Lucas 👋
 
 Engenheiro de Software focado em soluções Full Stack (Python & Flutter).
 
