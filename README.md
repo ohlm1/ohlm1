@@ -1,16 +1,22 @@
-## Hi there 👋
+# Olá, eu sou o ohlm1 👋
 
-<!--
-**ohlm1/ohlm1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Engenheiro de Software focado em soluções Full Stack (Python & Flutter).
 
-Here are some ideas to get you started:
+### 📊 Minhas Estatísticas
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=ohlm1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas de ohlm1" height="192px">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ohlm1&layout=compact&theme=tokyonight&hide=html,css" alt="Linguagens mais usadas" height="192px">
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tecnologias e Ferramentas
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
+
+---
+
+### 🚀 Projetos em Destaque
+- **[Lima Transport System](https://github.com/ohlm1/lima-transport-system):** Sistema completo de logística last-mile.
