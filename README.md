@@ -1,6 +1,6 @@
 # Olá, eu sou o Lucas (ohlm1) 👋
 
-Desenvolvedor Full Stack focado em soluções robustas de logística e sistemas escaláveis. Atualmente focado no **Lima Transport System**.
+Desenvolvedor Full Stack focado em soluções robustas de logística e sistemas escaláveis. Atualmente focado no desenvolvimento do **Lima Transport System**.
 
 ### 🛠️ Tecnologias e Ferramentas
 <p align="left">
@@ -19,11 +19,15 @@ Desenvolvedor Full Stack focado em soluções robustas de logística e sistemas 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ohlm1&layout=compact&theme=dark&hide=html,css" alt="Linguagens mais usadas" height="180px">
 </p>
 
----
-
-### 📫 Como me encontrar:
-- **LinkedIn:** [linkedin.com/in/ohliminha/](https://www.linkedin.com/in/ohliminha/)
-- **E-mail:** [lucascomercial3@gmail.com](mailto:lucascomercial3@gmail.com)
+### 📫 Contato
+<p align="left">
+  <a href="https://www.linkedin.com/in/ohliminha/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:lucascomercial3@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
 
 ---
 
