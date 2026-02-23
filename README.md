@@ -4,13 +4,9 @@ Desenvolvedor Full Stack focado em soluções robustas de logística e sistemas 
 
 ### 🛠️ Tecnologias e Ferramentas
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,fastapi,postgres,docker,aws,flutter,dart,git,github,vscode,postman,linux" />
+  </a>
 </p>
 
 ### 📊 Estatísticas e Linguagens
@@ -19,7 +15,7 @@ Desenvolvedor Full Stack focado em soluções robustas de logística e sistemas 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ohlm1&layout=compact&theme=dark&hide=html,css" alt="Linguagens mais usadas" height="180px">
 </p>
 
-### 📫 Contato
+### 📫 Vamos conversar?
 <p align="left">
   <a href="https://www.linkedin.com/in/ohliminha/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
