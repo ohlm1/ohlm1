@@ -10,10 +10,10 @@ Atualmente focado no desenvolvimento do **LTS (Lima Transport System)**, transfo
 
 | Categoria | Tecnologias |
 | :--- | :--- |
-| **Backend** | <img src="https://skillicons.dev/icons?i=py,fastapi,postgres" height="35" /> |
-| **Mobile** | <img src="https://skillicons.dev/icons?i=flutter,dart" height="35" /> |
-| **Infra & DevOps** | <img src="https://skillicons.dev/icons?i=docker,aws,linux" height="35" /> |
-| **Ferramentas** | <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" height="35" /> |
+| **Backend** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=py,fastapi,postgres" height="35" /></a> |
+| **Mobile** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=flutter,dart" height="35" /></a> |
+| **Infra & DevOps** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=docker,aws,linux" height="35" /></a> |
+| **Ferramentas** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github,vscode,postman" height="35" /></a> |
 
 ---
 
@@ -32,4 +32,4 @@ Atualmente focado no desenvolvimento do **LTS (Lima Transport System)**, transfo
 ### 🚀 Destaque Atual
 > **[Lima Transport System (LTS)](https://github.com/ohlm1/lima-transport-system)**
 > Sistema completo de rastreamento e baixa de cargas. 
-> *Status: Em desenvolvimento (Phase 08).*
+> *Status: Em desenvolvimento (Phase 08 - Baixa Operacional).*
