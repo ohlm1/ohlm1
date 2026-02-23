@@ -1,21 +1,23 @@
 # Olá, eu sou o Lucas (ohlm1) 👋
 
-Desenvolvedor Full Stack focado em soluções robustas de logística e sistemas escaláveis. Atualmente focado no desenvolvimento do **Lima Transport System**.
+**Desenvolvedor Full Stack | Especialista em Soluções Logísticas**
 
-### 🛠️ Tecnologias e Ferramentas
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,fastapi,postgres,docker,aws,flutter,dart,git,github,vscode,postman,linux" />
-  </a>
-</p>
+Atualmente focado no desenvolvimento do **LTS (Lima Transport System)**, transformando a gestão de entregas *last-mile* com uma arquitetura moderna e escalável.
 
-### 📊 Estatísticas e Linguagens
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ohlm1&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estatísticas de ohlm1" height="180px">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ohlm1&layout=compact&theme=dark&hide=html,css" alt="Linguagens mais usadas" height="180px">
-</p>
+---
 
-### 📫 Vamos conversar?
+### 🛠️ Stack Tecnológica
+
+| Categoria | Tecnologias |
+| :--- | :--- |
+| **Backend** | <img src="https://skillicons.dev/icons?i=py,fastapi,postgres" height="35" /> |
+| **Mobile** | <img src="https://skillicons.dev/icons?i=flutter,dart" height="35" /> |
+| **Infra & DevOps** | <img src="https://skillicons.dev/icons?i=docker,aws,linux" height="35" /> |
+| **Ferramentas** | <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" height="35" /> |
+
+---
+
+### 📫 Conecte-se comigo
 <p align="left">
   <a href="https://www.linkedin.com/in/ohliminha/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
@@ -27,5 +29,7 @@ Desenvolvedor Full Stack focado em soluções robustas de logística e sistemas 
 
 ---
 
-### 🚀 Projeto em Destaque
-- **[Lima Transport System](https://github.com/ohlm1/lima-transport-system):** Sistema de gestão de entregas com Backend em FastAPI e Mobile em Flutter.
+### 🚀 Destaque Atual
+> **[Lima Transport System (LTS)](https://github.com/ohlm1/lima-transport-system)**
+> Sistema completo de rastreamento e baixa de cargas. 
+> *Status: Em desenvolvimento (Phase 08).*
