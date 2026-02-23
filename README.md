@@ -1,22 +1,31 @@
-# Olá, eu sou o Lucas 👋
+# Olá, eu sou o Lucas (ohlm1) 👋
 
-Engenheiro de Software focado em soluções Full Stack (Python & Flutter).
-
-### 📊 Minhas Estatísticas
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ohlm1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas de ohlm1" height="192px">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ohlm1&layout=compact&theme=tokyonight&hide=html,css" alt="Linguagens mais usadas" height="192px">
-</p>
+Desenvolvedor Full Stack focado em soluções robustas de logística e sistemas escaláveis. Atualmente focado no **Lima Transport System**.
 
 ### 🛠️ Tecnologias e Ferramentas
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+</p>
+
+### 📊 Estatísticas e Linguagens
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=ohlm1&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estatísticas de ohlm1" height="180px">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ohlm1&layout=compact&theme=dark&hide=html,css" alt="Linguagens mais usadas" height="180px">
 </p>
 
 ---
 
-### 🚀 Projetos em Destaque
-- **[Lima Transport System](https://github.com/ohlm1/lima-transport-system):** Sistema completo de logística last-mile.
+### 📫 Como me encontrar:
+- **LinkedIn:** [linkedin.com/in/ohliminha/](https://www.linkedin.com/in/ohliminha/)
+- **E-mail:** [lucascomercial3@gmail.com](mailto:lucascomercial3@gmail.com)
+
+---
+
+### 🚀 Projeto em Destaque
+- **[Lima Transport System](https://github.com/ohlm1/lima-transport-system):** Sistema de gestão de entregas com Backend em FastAPI e Mobile em Flutter.
