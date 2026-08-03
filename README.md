@@ -1,35 +1,77 @@
-# Olá, eu sou o Lucas (ohlm1) 👋
+<div align="center">
 
-**Desenvolvedor Full Stack | Especialista em Soluções Logísticas**
+<img src="https://readme-typing-svg.demolab.com/?font=Inter&weight=700&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Lucas+Vieira+de+Lima;Backend+Developer;Node+.NET+%E2%80%A2+Python+%E2%80%A2+Cloud" alt="Typing SVG" />
 
-Atualmente focado no desenvolvimento do **LTS (Lima Transport System)**, transformando a gestão de entregas *last-mile* com uma arquitetura moderna e escalável.
+</div>
+
+<br>
+
+<div align="center">
+  <a href="https://github.com/ohlm1">
+    <img src="https://img.shields.io/badge/status-disponível_para_oportunidades-0F1419?style=for-the-badge&logoColor=38BDF8&color=161F26&labelColor=161F26" alt="Status" />
+  </a>
+  <a href="https://linkedin.com/in/ohlm1">
+    <img src="https://img.shields.io/badge/linkedin-perfil-0F1419?style=for-the-badge&logo=linkedin&logoColor=38BDF8&color=161F26&labelColor=161F26" alt="LinkedIn" />
+  </a>
+  <a href="https://instagram.com/ohlm1_">
+    <img src="https://img.shields.io/badge/instagram-%40ohlm1_-0F1419?style=for-the-badge&logo=instagram&logoColor=38BDF8&color=161F26&labelColor=161F26" alt="Instagram" />
+  </a>
+</div>
 
 ---
 
-### 🛠️ Stack Tecnológica
+### `$ cat sobre.md`
+
+- 🎓 **Formado** em Análise e Desenvolvimento de Sistemas (Faculdade Impacta)
+- 📚 **Cursando** MBA em Engenharia de Software na Faculdade Impacta
+- 🛠️ **Criador e Coordenador** do **Código Comentado** — iniciativa open-source de educação em programação através de código profundamente comentado
+- 🔄 **Em transição** de carreira para o desenvolvimento de software, somando bagagem em organização e processos (ex-Administrativo/Financeiro)
+
+---
+
+### `$ cat stack.json`
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,py,fastapi,flask,postgres,mysql,docker,aws,git,github,postman,swagger&theme=dark" alt="Tech Stack Icons" />
+</div>
+
+<br>
 
 | Categoria | Tecnologias |
 | :--- | :--- |
-| **Backend** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=py,fastapi,postgres" height="35" /></a> |
-| **Mobile** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=flutter,dart" height="35" /></a> |
-| **Infra & DevOps** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=docker,aws,linux" height="35" /></a> |
-| **Ferramentas** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github,vscode,postman" height="35" /></a> |
+| **Linguagens** | C#, Python, SQL |
+| **Backend** | .NET, ASP.NET Core, FastAPI, Flask, Entity Framework Core |
+| **Banco de Dados** | PostgreSQL, MySQL |
+| **Cloud & DevOps** | AWS, Docker, GitHub Actions |
+| **Boas Práticas** | Clean Architecture, SOLID, REST APIs, Dependency Injection, Git Flow |
 
 ---
 
-### 📫 Conecte-se comigo
-<p align="left">
-  <a href="https://www.linkedin.com/in/ohliminha/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+### `$ ls projetos/`
+
+<p align="center">
+  <a href="https://github.com/ohlm1/codigo-comentado">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ohlm1&repo=codigo-comentado&theme=transparent&title_color=38BDF8&text_color=82989F&icon_color=38BDF8&border_color=233038" width="48%" alt="Código Comentado" />
   </a>
-  <a href="mailto:lucascomercial3@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  <a href="https://github.com/ohlm1/lima-transport-system">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ohlm1&repo=lima-transport-system&theme=transparent&title_color=38BDF8&text_color=82989F&icon_color=38BDF8&border_color=233038" width="48%" alt="Lima Transport System" />
   </a>
+</p>
+
+- **Código Comentado:** Projeto colaborativo e educacional focado em explicar o raciocínio por trás de cada decisão técnica no código.
+- **Lima Transport System (LTS):** API de gestão logística e controle de frotas desenvolvida com .NET, PostgreSQL e arquitetura robusta.
+
+---
+
+### `$ git log --stats`
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ohlm1&show_icons=true&theme=transparent&title_color=38BDF8&text_color=82989F&icon_color=38BDF8&border_color=233038&include_all_commits=true&count_private=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ohlm1&theme=transparent&hide_border=true&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" width="48%" alt="GitHub Streak" />
 </p>
 
 ---
 
-### 🚀 Destaque Atual
-> **[Lima Transport System (LTS)](https://github.com/ohlm1/lima-transport-system)**
-> Sistema completo de rastreamento e baixa de cargas. 
-> *Status: Em desenvolvimento (Phase 08 - Baixa Operacional).*
+<div align="center">
+  <sub>Construído com foco em minimalismo e performance. &nbsp;·&nbsp; <a href="https://github.com/ohlm1">github.com/ohlm1</a></sub>
+</div>
