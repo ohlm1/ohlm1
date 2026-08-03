@@ -10,7 +10,7 @@
   <a href="https://github.com/ohlm1">
     <img src="https://img.shields.io/badge/status-disponível_para_oportunidades-0F1419?style=for-the-badge&logoColor=38BDF8&color=161F26&labelColor=161F26" alt="Status" />
   </a>
-  <a href="https://linkedin.com/in/ohlm1">
+  <a href="https://linkedin.com/in/ohliminha">
     <img src="https://img.shields.io/badge/linkedin-perfil-0F1419?style=for-the-badge&logo=linkedin&logoColor=38BDF8&color=161F26&labelColor=161F26" alt="LinkedIn" />
   </a>
   <a href="https://instagram.com/ohlm1_">
