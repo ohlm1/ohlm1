@@ -50,7 +50,7 @@
 ### `$ ls projetos/`
 
 <p align="center">
-  <a href="[[https://github.com/Codigo-Comentado">
+  <a href="https://github.com/Codigo-Comentado">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ohlm1&repo=codigo-comentado&theme=transparent&title_color=38BDF8&text_color=82989F&icon_color=38BDF8&border_color=233038" width="48%" alt="Código Comentado" />
   </a>
   <a href="https://github.com/ohlm1/lima-transport-system">
