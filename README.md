@@ -20,7 +20,7 @@ Construindo soluções, conectando processos e compartilhando conhecimento.
 
 <br><br>
 
-**Aberto a oportunidades júnior em desenvolvimento, automação e banco de dados, além de posições de entrada em Cloud e DevOps.**
+**Aberto a oportunidades em desenvolvimento de software, automação, banco de dados, Cloud e DevOps.**
 
 </div>
 
@@ -71,7 +71,7 @@ O projeto reúne exemplos, trilhas de aprendizado e contribuições da comunidad
 **Minha participação:** criação e coordenação da iniciativa, organização dos conteúdos e revisão de contribuições.
 
 <p>
-  <a href="URL_DO_SITE">
+  <a href="https://codigocomentado.com.br">
     <img src="https://img.shields.io/badge/Conhecer_o_site-0284C7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Site do Código Comentado">
   </a>
   <a href="https://github.com/Codigo-Comentado/Codigo_comentado">
@@ -89,14 +89,14 @@ Landing page responsiva criada como **proposta demonstrativa independente** para
 
 Apresenta produtos, informações do estabelecimento e chamadas para ação, com foco em navegação simples e adaptação para dispositivos móveis.
 
-**HTML · CSS · JavaScript · Tailwind CSS**
+**Next.js · React · TypeScript · Tailwind CSS**
 
 <p>
-  <a href="https://ohlm1.github.io/estacao-da-comida/">
-    <img src="https://img.shields.io/badge/Ver_demonstração-0284C7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Demonstração da Estação da Comida">
+  <a href="https://estacao-da-comida.vercel.app">
+    <img src="https://img.shields.io/badge/Ver_demonstração-0284C7?style=for-the-badge&logo=vercel&logoColor=white" alt="Demonstração da Estação da Comida">
   </a>
   <a href="https://github.com/ohlm1/estacao-da-comida">
-    <img src="https://img.shields.io/badge/Ver_repositório-18181B?style=for-the-badge&logo=github&logoColor=white" alt="Repositório da Estação da Comida">
+    <img src="https://img.shields.io/badge/Explorar_repositório-18181B?style=for-the-badge&logo=github&logoColor=white" alt="Repositório da Estação da Comida">
   </a>
 </p>
 
@@ -114,12 +114,12 @@ Cada projeto representa uma etapa do meu aprendizado e da aplicação prática d
 
 ### 🎯 Interesses profissionais
 
-Busco minha primeira oportunidade profissional em tecnologia, em áreas nas quais possa aplicar meus conhecimentos e continuar evoluindo:
+Busco oportunidades em tecnologia nas quais possa contribuir com meus conhecimentos, resolver problemas e continuar evoluindo:
 
 - **Desenvolvimento front-end, back-end e full stack**
 - **Automação de processos e integrações entre sistemas**
 - **Banco de dados, SQL e soluções com dados**
-- **Posições de entrada em Cloud e DevOps**
+- **Cloud, infraestrutura e DevOps**
 
 Trago experiência com processos de negócio, disposição para aprender e projetos práticos que demonstram minha evolução.
 
