@@ -1,77 +1,143 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Inter&weight=700&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Lucas+Vieira+de+Lima;Backend+Developer;Node+.NET+%E2%80%A2+Python+%E2%80%A2+Cloud" alt="Typing SVG" />
+# Olá, sou Lucas Lima 👋
 
-</div>
+### Desenvolvimento de Software · Python · C# · SQL
+
+Construindo soluções, conectando processos e compartilhando conhecimento.
 
 <br>
 
-<div align="center">
-  <a href="https://github.com/ohlm1">
-    <img src="https://img.shields.io/badge/status-disponível_para_oportunidades-0F1419?style=for-the-badge&logoColor=38BDF8&color=161F26&labelColor=161F26" alt="Status" />
-  </a>
-  <a href="https://linkedin.com/in/ohliminha">
-    <img src="https://img.shields.io/badge/linkedin-perfil-0F1419?style=for-the-badge&logo=linkedin&logoColor=38BDF8&color=161F26&labelColor=161F26" alt="LinkedIn" />
-  </a>
-  <a href="https://instagram.com/ohlm1_">
-    <img src="https://img.shields.io/badge/instagram-%40ohlm1_-0F1419?style=for-the-badge&logo=instagram&logoColor=38BDF8&color=161F26&labelColor=161F26" alt="Instagram" />
-  </a>
+<a href="https://linkedin.com/in/ohliminha">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<a href="https://instagram.com/ohlm1_">
+  <img src="https://img.shields.io/badge/Instagram-18181B?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+</a>
+<a href="https://github.com/Codigo-Comentado">
+  <img src="https://img.shields.io/badge/Código_Comentado-18181B?style=for-the-badge&logo=github&logoColor=38BDF8" alt="GitHub do Código Comentado">
+</a>
+
+<br><br>
+
+**Aberto a oportunidades júnior em desenvolvimento, automação e banco de dados, além de posições de entrada em Cloud e DevOps.**
+
 </div>
 
 ---
 
-### `$ cat sobre.md`
+### 👨‍💻 Sobre mim
 
-- 🎓 **Formado** em Análise e Desenvolvimento de Sistemas (Faculdade Impacta)
-- 📚 **Cursando** MBA em Engenharia de Software na Faculdade Impacta
-- 🛠️ **Criador e Coordenador** do **Código Comentado** — iniciativa open-source de educação em programação através de código profundamente comentado
-- 🔄 **Em transição** de carreira para o desenvolvimento de software, somando bagagem em organização e processos (ex-Administrativo/Financeiro)
+Sou formado em **Análise e Desenvolvimento de Sistemas** e curso **MBA em Engenharia de Software**, ambos pela Faculdade Impacta.
+
+Desenvolvo projetos com **Python, C# e SQL**, explorando APIs, automações, aplicações web e bancos de dados. Tenho interesse em atuar tanto no **front-end quanto no back-end**, além de aprofundar meus conhecimentos em infraestrutura e entrega de software.
+
+Minha experiência nas áreas **administrativa, financeira e logística** contribui para compreender processos, identificar necessidades e pensar em soluções conectadas ao dia a dia dos negócios.
+
+Também sou **criador e coordenador do Código Comentado**, uma iniciativa colaborativa para tornar o aprendizado de programação mais acessível.
 
 ---
 
-### `$ cat stack.json`
+### 🛠️ Tecnologias e ferramentas
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,py,fastapi,flask,postgres,mysql,docker,aws,git,github,postman,swagger&theme=dark" alt="Tech Stack Icons" />
+  <img src="https://skillicons.dev/icons?i=py,cs,dotnet,fastapi,flask,postgres,html,css,js,git&theme=dark&perline=5" alt="Python, C#, .NET, FastAPI, Flask, PostgreSQL, HTML, CSS, JavaScript e Git">
 </div>
 
 <br>
 
-| Categoria | Tecnologias |
+| Área | Tecnologias e ferramentas |
 | :--- | :--- |
-| **Linguagens** | C#, Python, SQL |
-| **Backend** | .NET, ASP.NET Core, FastAPI, Flask, Entity Framework Core |
-| **Banco de Dados** | PostgreSQL, MySQL |
-| **Cloud & DevOps** | AWS, Docker, GitHub Actions |
-| **Boas Práticas** | Clean Architecture, SOLID, REST APIs, Dependency Injection, Git Flow |
+| Back-end | Python · C# · ASP.NET Core · FastAPI · Flask |
+| Front-end | HTML · CSS · JavaScript · Tailwind CSS |
+| Banco de dados | SQL · PostgreSQL · MySQL · Entity Framework Core |
+| Automação e dados | Selenium · Pandas · VBA |
+| Desenvolvimento | Git · GitHub · Postman · Swagger / OpenAPI |
+
+📚 **Em aprofundamento:** arquitetura de software, testes automatizados, Docker, AWS e integração contínua.
 
 ---
 
-### `$ ls projetos/`
+### 📘 Projeto em destaque · Código Comentado
 
-<p align="center">
-  <a href="https://github.com/Codigo-Comentado">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ohlm1&repo=codigo-comentado&theme=transparent&title_color=38BDF8&text_color=82989F&icon_color=38BDF8&border_color=233038" width="48%" alt="Código Comentado" />
+> **Aprender programação ensinando programação.**
+
+Uma iniciativa educacional em que o código vem acompanhado de explicações sobre **o que faz, como funciona e por que cada conceito existe**.
+
+O projeto reúne exemplos, trilhas de aprendizado e contribuições da comunidade, com foco em documentação, prática e aprendizado colaborativo.
+
+**Minha participação:** criação e coordenação da iniciativa, organização dos conteúdos e revisão de contribuições.
+
+<p>
+  <a href="URL_DO_SITE">
+    <img src="https://img.shields.io/badge/Conhecer_o_site-0284C7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Site do Código Comentado">
   </a>
-  <a href="https://github.com/ohlm1/lima-transport-system">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ohlm1&repo=lima-transport-system&theme=transparent&title_color=38BDF8&text_color=82989F&icon_color=38BDF8&border_color=233038" width="48%" alt="Lima Transport System" />
+  <a href="https://github.com/Codigo-Comentado/Codigo_comentado">
+    <img src="https://img.shields.io/badge/Explorar_o_código-18181B?style=for-the-badge&logo=github&logoColor=white" alt="Repositório do Código Comentado">
   </a>
 </p>
 
-- **Código Comentado:** Projeto colaborativo e educacional focado em explicar o raciocínio por trás de cada decisão técnica no código.
-- **Lima Transport System (LTS):** API de gestão logística e controle de frotas desenvolvida com .NET, PostgreSQL e arquitetura robusta.
+[Comunidade e redes sociais →](https://linktr.ee/codigocomentado)
 
 ---
 
-### `$ git log --stats`
+### 🍽️ Desenvolvimento web · Estação da Comida
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ohlm1&show_icons=true&theme=transparent&title_color=38BDF8&text_color=82989F&icon_color=38BDF8&border_color=233038&include_all_commits=true&count_private=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ohlm1&theme=transparent&hide_border=true&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" width="48%" alt="GitHub Streak" />
+Landing page responsiva criada como **proposta demonstrativa independente** para um restaurante.
+
+Apresenta produtos, informações do estabelecimento e chamadas para ação, com foco em navegação simples e adaptação para dispositivos móveis.
+
+**HTML · CSS · JavaScript · Tailwind CSS**
+
+<p>
+  <a href="https://ohlm1.github.io/estacao-da-comida/">
+    <img src="https://img.shields.io/badge/Ver_demonstração-0284C7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Demonstração da Estação da Comida">
+  </a>
+  <a href="https://github.com/ohlm1/estacao-da-comida">
+    <img src="https://img.shields.io/badge/Ver_repositório-18181B?style=for-the-badge&logo=github&logoColor=white" alt="Repositório da Estação da Comida">
+  </a>
 </p>
+
+---
+
+### 📂 Estudos e outros trabalhos
+
+Meus repositórios também incluem **estudos, experimentos e desafios técnicos**, nos quais pratico desenvolvimento, integrações e resolução de problemas.
+
+Cada projeto representa uma etapa do meu aprendizado e da aplicação prática dos conhecimentos.
+
+[Explorar todos os repositórios →](https://github.com/ohlm1?tab=repositories)
+
+---
+
+### 🎯 Interesses profissionais
+
+Busco minha primeira oportunidade profissional em tecnologia, em áreas nas quais possa aplicar meus conhecimentos e continuar evoluindo:
+
+- **Desenvolvimento front-end, back-end e full stack**
+- **Automação de processos e integrações entre sistemas**
+- **Banco de dados, SQL e soluções com dados**
+- **Posições de entrada em Cloud e DevOps**
+
+Trago experiência com processos de negócio, disposição para aprender e projetos práticos que demonstram minha evolução.
 
 ---
 
 <div align="center">
-  <sub>Construído com foco em minimalismo e performance. &nbsp;·&nbsp; <a href="https://github.com/ohlm1">github.com/ohlm1</a></sub>
+
+### 🤝 Vamos conversar?
+
+Se meu perfil fizer sentido para sua equipe, será um prazer conversar.
+
+<a href="https://linkedin.com/in/ohliminha">
+  <img src="https://img.shields.io/badge/Fale_comigo_no_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Contato pelo LinkedIn">
+</a>
+<a href="https://instagram.com/ohlm1_">
+  <img src="https://img.shields.io/badge/Acompanhe_no_Instagram-18181B?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram de Lucas Lima">
+</a>
+
+<br><br>
+
+<sub>Aprender · Construir · Compartilhar</sub>
+
 </div>
