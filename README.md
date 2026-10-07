@@ -2,11 +2,11 @@
 
 # Olá, sou Lucas Lima 👋
 
-### Desenvolvimento de Software · Python · C# · SQL
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1800&color=38BDF8&center=true&vCenter=true&width=650&height=60&lines=Desenvolvimento+de+Software;Python+%C2%B7+C%23+%C2%B7+SQL;APIs+%C2%B7+Web+%C2%B7+Automa%C3%A7%C3%A3o;Aprender%2C+construir+e+compartilhar" alt="Desenvolvimento de software, Python, C#, SQL, APIs, web e automação">
 
 Construindo soluções, conectando processos e compartilhando conhecimento.
 
-<br>
+<br><br>
 
 <a href="https://linkedin.com/in/ohliminha">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
@@ -32,7 +32,7 @@ Sou formado em **Análise e Desenvolvimento de Sistemas** e curso **MBA em Engen
 
 Desenvolvo projetos com **Python, C# e SQL**, explorando APIs, automações, aplicações web e bancos de dados. Tenho interesse em atuar tanto no **front-end quanto no back-end**, além de aprofundar meus conhecimentos em infraestrutura e entrega de software.
 
-Minha experiência nas áreas **administrativa, financeira e logística** contribui para compreender processos, identificar necessidades e pensar em soluções conectadas ao dia a dia dos negócios.
+Minha experiência nas áreas **administrativa, financeira e logística** contribui para compreender processos, identificar necessidades e desenvolver soluções conectadas ao dia a dia dos negócios.
 
 Também sou **criador e coordenador do Código Comentado**, uma iniciativa colaborativa para tornar o aprendizado de programação mais acessível.
 
@@ -41,7 +41,9 @@ Também sou **criador e coordenador do Código Comentado**, uma iniciativa colab
 ### 🛠️ Tecnologias e ferramentas
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py,cs,dotnet,fastapi,flask,postgres,html,css,js,git&theme=dark&perline=5" alt="Python, C#, .NET, FastAPI, Flask, PostgreSQL, HTML, CSS, JavaScript e Git">
+
+<img src="https://skillicons.dev/icons?i=py,cs,dotnet,fastapi,flask,postgres,html,css,js,git&theme=dark&perline=5" alt="Python, C#, .NET, FastAPI, Flask, PostgreSQL, HTML, CSS, JavaScript e Git">
+
 </div>
 
 <br>
@@ -120,6 +122,22 @@ Busco minha primeira oportunidade profissional em tecnologia, em áreas nas quai
 - **Posições de entrada em Cloud e DevOps**
 
 Trago experiência com processos de negócio, disposição para aprender e projetos práticos que demonstram minha evolução.
+
+---
+
+### 📊 Atividade no GitHub
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=ohlm1&show_icons=true&hide_border=true&bg_color=00000000&title_color=38BDF8&icon_color=38BDF8&text_color=8B949E&hide=stars&locale=pt-br" alt="Estatísticas públicas do GitHub de Lucas Lima">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ohlm1&layout=compact&hide_border=true&bg_color=00000000&title_color=38BDF8&text_color=8B949E&langs_count=6&locale=pt-br" alt="Linguagens nos repositórios públicos de Lucas Lima">
+
+</div>
+
+<br>
+
+<sub>As linguagens representam a composição dos repositórios públicos, não o nível de domínio.</sub>
 
 ---
 
